@@ -16,7 +16,7 @@ public class MovieStorage{
 
     public String getName(){  return movieName;   }
     public String getMActor(){  return maleActor;   }
-    public String getFActor(){  return femaleActress;   }
+    public String getFActress(){  return femaleActress;   }
     public String [] getGenres(){   return genres;  }
 
 }
