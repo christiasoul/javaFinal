@@ -1,0 +1,136 @@
+John Wick, Keanu Reeves, , Action:Thriller
+The Equalizer, Denzel Washington, Chloe Grace Moretz, Action:Thriller
+The Conjuring 2, Patrick Wilson, Vera Farmiga, Horror:Mystery:Thriller
+Pacific Rim, Sci-Fi, Charlie Hunnam, Rinko Kikuchi, Action:Adventure
+Mr. and Mrs. Smith, Brad Pitt, Angelina Jolie, Action:Comedy
+The Mummy, Brendan Fraser, Rachel Weisz, Action:Adventure:Fantasy
+Krampus, Emjay Anthony, , Comedy:Fantasy:Horror
+Sword Art Online Ordinal Scale, Yoshitsugu Matsuoka, Haruka Tomatsu, Animation:Action:Adventure
+Wall-E, Ben Burtt, Elissa Knight, Animation:Adventure
+Yes Man, Jim Carrey, Zooey Deschanel, Comedy:
+Independence Day, Will Smith, , Sci-fi:
+Without A Paddle, Seth Green, , Comedy:
+The Langoliers, David Morse, , Sci-fi:
+Pet Sematary, Miko Hughes, , Fantasy:
+This Is the End, James Franco, , Comedy:
+The Color of Friendship, , Lindsey Haun, Comedy:Drama
+Harry Potter and the Sorcerer's Stone, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Harry Potter and the Chamber of Secrets, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Kung Fu Panda, Jack Black, Angelina Jolie, Animation:
+Deadpool, Ryan Reynolds, Morena Baccarin, Adventure:
+10 Cloverfield Lane, John Goodman, Mary Elizabeth Winstead, Thriller:
+Spy, Jude Law, Melissa McCarthy, Comedy:
+Beauty and the Beast, Dan Stevens, Emma Watson, Romance:
+The Lego Batman, Will Arnett, Rosario Dawson, Fantasy:
+Logan, Hugh Jackman, Dafne Keen, Drama:
+Bob The Butler, Tom Green, Brooke Shields, Comedy:Drama
+Midnight in Paris, Owen Wilson, Marion Cotillard, Comedy:Romance
+Star Wars The Phantom Menace, Liam Neeson, Natalie Portman, Sci-fi:Fantasy:Adventure
+Arrival, Jeremy Renner, Amy Adams, Drama:Mystery:Sci-fi
+Zootopia, Jason Bateman, Ginnifer Goodwin, Animation:Comedy:Adventure
+Food Fight, Charlie Sheen, Hilary Duff, Animation:Action:Comedy:Fantasy
+Shrek Forever After, Mike Myers, Cameron Diaz, Animation:Adventure:Comedy:Fantasy
+Star Wars Holiday Special, Mark Hamill, Carrie Fisher, Adventure:Sci-Fi
+Masters of the Universe, Dolph Lundgren, , Action:Adventure:Fantasy:Sci-Fi:Thriller
+Guardians of the Galaxy, Chris Pratt, Zoe Saldana, Action:Adventure:Sci-Fi
+Harry Potter and the Prisoner of Azkaban, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Harry Potter and the Goblet of Fire, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Harry Potter and the Order of the Phoenix, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Gravity, George Clooney, Sandra Bullock, Adventure:Drama:Sci-Fi:Thriller
+District 9, Sharlto Copley, Nathalie Boltt, Action:Sci-Fi:Thriller
+The Man from Earth, David Lee Smith, , Sci-fi:Fantasy
+The Lord of the Rings, Elijah Wood, Liv Tyler, Adventure:Fantasy:Drama
+The Bourne Ultimatum, Matt Damon, , Adventure:Drama
+Slumdog Millionaire, Dev Patel, Janeva Talwar, Drama:
+Elysium, Matt Damon, Jodie Foster, Action:Sci-Fi:Drama
+Prometheus, Michael Fassbender, Noomi Rapace, Adventure:Sci-Fi:Mystery
+UP, Edward Asner, , Animation:Adventure:Comedy
+Star Wars Rogue One, Diego Luna, Felicity Jones, Action:Adventure:Sci-Fi
+Avatar, Sam Worthington, Zoe Saldana, Action:Adventure:Fantasy
+The Bourne Supremacy, Matt Damon, , Adventure:Drama
+Tower Heist, Ben Stiller, Tea Leoni, Action:Comedy:Crime
+IRobot, Will Smith, Bridget Moynahan, Action:Mystery:Sci-Fi
+I Am Legend, Will Smith, Alice Braga, Drama:Horror:Sci-Fi
+World War Z, Brad Pitt, Mireille Enos, Action:Adventure:Horror
+The Bourne Identity, Matt Damon, , Adventure:Drama
+How to Train Your Dragon, Jay Baruchel, America Ferrera, Animation:Adventure:Fantasy
+Mulan, Eddie Murphy, Ming-Na Wen, Animation:Comedy:Fantasy
+The Talented Mr. Ripley, Matt Damon, Gwyneth Paltrow, Drama:
+Inception, Leonardo DiCaprio, Ellen Page, Sci-fi:Thriller
+Austin Powers, Mike Myers, Elizabeth Hurley, Comedy:
+Finding Nemo, Albert Brooks, Ellen DeGeneres, Animation:Adventure:Comedy
+Harry Potter and the Half-Blood Prince, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Harry Potter and the Deathly Hallows part 1, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+Harry Potter and the Deathly Hallows part 2, Daniel Radcliffe, Emma Watson, Adventure:Fantasy
+The Sound of Music, Christopher Plummer, Julie Andrews, Romance:
+The Princess Diaries, , Anne Hathaway, Romance:Comedy
+Toy Story, Tom Hanks, , Animation: Adventure:Fantasy
+American Pie, Jason Biggs, Alyson Hannigan, Comedy:Romance
+The Nice Guys, Ryan Gosling, , Comedy:Thriller
+Moana, Dwayne Johnson, Auli'i Cravalho, Animation:Adventure
+About Time, Domhnall Gleeson, Rachel McAdams, Romance:Comedy
+No Escape, Owen Wilson, Lake Bell, Thriller:
+Forrest Gump, Tom Hanks, Robin Wright, Comedy:Drama:Romance
+When Harry Met Sally, Billy Crystal, Meg Ryan, Comedy:Drama:Romance
+Pirates of the Caribbean, Johnny Depp, Keira Knightley, Comedy:Adventure
+Her, Joaquin Phoenix, Scarlett Johansson, Comedy:Drama:Romance:Sci-fi
+Office Space, Ron Livingston, Jennifer Aniston, Comedy:
+Don Jon, Joseph Gordon-Levitt, Scarlett Johansson, Comedy:Drama
+Marley & Me, Owen Wilson, Jennifer Aniston, Comedy:Drama
+12 Angry Men, Henry Fonda, , Drama:
+Carrie, , Chloe Grace Moretz, Thriller:Drama:Sci-fi
+Stand By Me, River Phoenix, , Adventure:Comedy
+Big, Tom Hanks, , Comedy:Sci-fi:Fantasy
+The Shining, Jack Nicholson, Shelley Duvall, Drama:Thriller
+Scott Pilgrim vs. the World, Michael Cera, Mary Elizabeth Winstead, Adventure:Comedy
+American Sniper, Bradley Cooper, , Action:
+The Accountant, Ben Affleck, , Action:
+Jesus Christ Superstar, Ted Neeley, , Musical:
+Tears of the Sun, Bruce Willis, , Action:Thriller
+Rambo, Sylvester Stallone, Julie Benz, Action:Thriller
+The Amazing Spider-man, Andrew Garfield, Emma Stone, Action:Drama 
+Twilight, Robert Pattinson, Kristen Stewart, Fantasy:Drama
+4 Christmases, Vince Vaughn, Reese Witherspoon, Drama:
+Beauty and the Beast, Dan Stevens, Emma Watson, Romance:
+The Matrix, Keanu Reeves, Carrie-Anne Moss, Action:
+Toy Story, Tom Hanks, , Animation:Comedy
+Die Hard, Bruce Willis, , Action:Comedy:Romance
+Ocean's Eleven, George Clooney, Julia Roberts, Action:Adventure:Drama
+Salt, , Angelina Jolie, Action:Adventure:Mystery
+Inside Out, , Amy Poehler, Animation:Adventure:Comedy
+Zombieland, Jesse Eisenberg, Emma Stone, Comedy:Adventure:Sci-fi
+Ender's Game, Asa Butterfield, Hailee Steinfeld, Sci-fi:Adventure
+The Curious Case of Benjamin Button, Brad Pitt, Cate Blanchett, Sci-fi:Drama:Romance
+Changeling, , Angelina Jolie, Drama:Mystery
+Dredd, Karl Urban, Olivia Thirlby, Sci-Fi:Adventure
+The Lego Movie, Chris Pratt, Elizabeth Banks, Animation:Comedy
+Ocean's Thirteen, George Clooney, Julia Roberts, Action:Adventure:Drama
+Notting Hill, Hugh Grant, Julia Roberts, Comedy:Romance
+Inglorious Basterds, Brad Pitt, Melanie Laurent, Action:Adventure:Drama
+21 Jump Street, Jonah Hill, Brie Larson, Comedy:Action:Thriller
+Ride Along, Kevin Hart, Tika Sumpter, Action:Comedy
+Horns, Daniel Radcliffe, Juno Temple, Horror:Fantasy:Thriller:Drama
+Erin Brockovich, , Julia Roberts, Drama
+Sin City, Mickey Rourke, Jessica Alba, Action:Thriller:Adventure:Drama
+Ocean's Twelve, George Clooney, Julia Roberts, Action:Adventure:Drama
+Of Mice and Men, Lon Chaney Jr., Betty Field, Drama:
+Animal Farm, Kelsey Grammer, Julia Louis-Dreyfus, Sci-fi
+Lord of the Flies, Balthazar Getty, , Action:Adventure
+The Godfather, Marlon Brando, Diane Keaton, Drama:
+Johnny English, Rowan Atkinson, , Comedy:
+Captain Phillips, Tom Hanks, , Drama:
+Bridge of Spies, Tom Hanks, , Drama:
+The Longest Day, Henry Fonda, , Drama:Adventure:Action
+Ghost in the Shell, , Scarlett Johansson, Sci-fi: Action: Drama
+Star Wars Revenge of the Sith, Ewan McGregor, Natalie Portman, Sci-fi:Fantasy:Adventure
+Mister Roberts, Henry Fonda, , Drama:Comedy
+La La Land, Ryan Gosling, Emma Stone, Romance: Drama
+Beauty and the Beast, Dan Stevens, Emma Watson, Fantasy
+Moana, Dwayne Johnson, Auli’i Cravalho, Animation: Adventure: Comedy
+Logan, Hugh Jackman, , Action: Sci-fi: Drama
+Get Out, Daniel Kaluuya, Allison Williams, Horror: Mystery
+Star Wars Attack of the Clones, Ewan McGregor, Natalie Portman, Sci-fi:Fantasy:Adventure
+
+
+
+

@@ -5,7 +5,7 @@ public class FilterMovies{
     public enum FilterType{Name, MaleActor, FemaleActor, Genre}
     public enum FilterComparison{Has, Is, Not}
 
-    public ArrayList<MovieStorage> filter(ArrayList<MovieStorage> movieData, FilterType [] typeAr, FilterComparison [] compAr, String strInput){
+    public static ArrayList<MovieStorage> filter(ArrayList<MovieStorage> movieData, FilterType [] typeAr, FilterComparison [] compAr, String strInput){
         ArrayList<MovieStorage> filterMovies = new ArrayList<MovieStorage>();
         for (int i = 0; i < movieData.size(); i++){
             MovieStorage tempMovie = movieData.get(i);
@@ -21,7 +21,7 @@ public class FilterMovies{
         return filterMovies;
     }
 
-    public boolean sortItem(MovieStorage movieIn, FilterType type, FilterComparison comp, String strInput){
+    public static boolean sortItem(MovieStorage movieIn, FilterType type, FilterComparison comp, String strInput){
         String [] movieString;
 
         // Get the string of what is going to be compared

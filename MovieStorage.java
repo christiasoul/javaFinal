@@ -19,4 +19,14 @@ public class MovieStorage{
     public String getFActress(){  return femaleActress;   }
     public String [] getGenres(){   return genres;  }
 
+    public String getString(){
+        String flatGenres = "";
+        for (int i = 0; i < genres.length; i++){
+            flatGenres = flatGenres + ", " + genres[i];
+        }
+        
+        return "Movie Name : " + movieName + " Male Actor : " + maleActor + "  Female Actor : "
+            + femaleActress + "  Genres : " + flatGenres;
+    }
+
 }
